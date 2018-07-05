@@ -1,0 +1,10 @@
+com\taotao\mapper\TbordershippingMapper.class
+com\taotao\mapper\TbitemMapper.class
+com\taotao\mapper\TborderitemMapper.class
+com\taotao\mapper\TbitemcatMapper.class
+com\taotao\mapper\TbitemparamitemMapper.class
+com\taotao\mapper\TborderMapper.class
+com\taotao\mapper\TbcontentcategoryMapper.class
+com\taotao\mapper\TbcontentMapper.class
+com\taotao\mapper\TbitemdescMapper.class
+com\taotao\mapper\TbitemparamMapper.class
